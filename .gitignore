@@ -6,3 +6,5 @@ out/
 
 # Java compiled classes
 *.class
+
+*.iml
